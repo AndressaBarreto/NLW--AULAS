@@ -1,10 +1,10 @@
 ## SEMANA NLW -  NEXT LEVEL WEEK (ROCKETSEAT)
 
-### Aula 1 - Objetivos
+### Objetivos
 
-##### Desenvolver a tela inicial da aplicação Ecoleta.
+##### Desenvolvimento de um marketplace de coleta de resíduos. 
 
-##### Plataforma de coleta de resíduos. 
+#####
 ![Ecoleta](https://github.com/AndressaBarreto/NLW--AULAS/blob/master/ecoleta.PNG)
 
-### Aula 2 - Em construção
+
